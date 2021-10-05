@@ -1,0 +1,157 @@
+[
+    {
+        "id": 1,
+        "img": "img_asset1.jpg",
+        "title": "How Case Western Reserve University’s Experiential Education Legacy Continues to Drive Its Career Services",
+        "text": "Ohio-based Case Western Reserve University runs programs that offer students a whole gamut of experiential education opportunities, from lab research, to co-ops and micro internships. Now, they've added Paragon One’s remote externships to the mix.",
+        "label": "feature"
+    },
+    {
+        "id": 2,
+        "img": "img_asset2.jpg",
+        "title": "Facebook Partnered With a Startup to Give Scores of Diverse Students Remote Externships This Summer. We Were That Startup.",
+        "text": "Working at Facebook is every student’s dream. By partnering with Paragon One during a very difficult summer for students, the social media giant made that dream a reality for dozens of young people, irrespective of where they lived or studied.",
+        "label": "feature"
+    },
+    {
+        "id": 3,
+        "img": "img_asset3.jpg",
+        "title": "How Experiential Learning and Remote Work Can Accelerate Diverse and Inclusive Recruiting",
+        "text": "As companies grow more comfortable with remote work, many will choose to revisit traditional recruiting practices, potentially accelerating inclusivity efforts that companies have been trying to integrate into their recruiting processes.",
+        "label": "insight"
+    },
+    {
+        "id": 4,
+        "img": "img_asset6.jpg",
+        "title": "What is a Remote Externship?",
+        "text": "‍Paragon One answers the question we get asked the most, and a few others.",
+        "label": "insight"
+    },
+    {
+        "id": 5,
+        "img": "img_asset20.jpg",
+        "title": "COVID19 Might Have Forced Classrooms To Close, But These High Schoolers Just Began Their Careers Online",
+        "text": "‍Asia’s Dulwich College International turned the disruption caused by mass lockdowns into a chance for students to get their first taste of corporate life via remote externships, by partnering with Paragon One",
+        "label": "feature"
+    },
+    {
+        "id": 6,
+        "img": "img_asset7.jpg",
+        "title": "I'm a Pre-med Student That Did a Remote Externship With a VC Firm. Here's Why.",
+        "text": "‍This summer, Thomas Heslop signed on for a remote externship with Boston-based venture capital firm RallyCry Ventures, managed by Paragon One. As a “pre-med” student, getting work experience in finance seemed like a disruptive career choice to make, but the Howard University senior sees immense value in taking an unconventional learning route. Since writing this article, Heslop has enrolled in a second Paragon One-managed remote externship, this time with Facebook.",
+        "label": "insight"
+    },
+    {
+        "id": 7,
+        "img": "img_asset8.jpg",
+        "title": "‘Accidental Recruiter’ Rashida Geddes Shares 3 Powerful Tips For the Job-Searching Millennial Student",
+        "text": "‍Talent consultant and Paragon One Program Manager Rashida Geddes shares three key pieces of advice that every young job hunter should take to heart, as they look to build impactful and fulfilling careers.",
+        "label": "insight"
+    },
+    {
+        "id": 8,
+        "img": "img_asset21.jpg",
+        "title": "New York Startup Younity Decided to Bring a Group of Students on Board for a Remote Work Project. Here’s Why.",
+        "text": "‍Paragon One managed an eight-week remote externship for real estate technology company Younity, giving students from diverse backgrounds the chance to work remotely at an up-and-coming startup.",
+        "label": "interview"
+    },
+    {
+        "id": 9,
+        "img": "img_asset22.jpg",
+        "title": "Underrepresented New York Students Have Remote Externships For The Summer of 2020: Thank you, OppNet!",
+        "text": "‍Paragon One is proud to partner with The Opportunity Network to match first generation college students and young people of color with online externships through the COVID19 crisis.",
+        "label": "interview"
+    },
+    {
+        "id": 10,
+        "img": "img_asset17.jpg",
+        "title": "Are Colleges Really Preparing Students for the Workforce?",
+        "text": "‍A new survey shows that while higher education typically provides a good foundation for pursuing a future career, it can fall short in providing an up-to-date education that aligns with employers’ needs.",
+        "label": "insight"
+    },
+    {
+        "id": 11,
+        "img": "img_asset19.jpg",
+        "title": "How to Successfully Manage a Team of Remote Interns: (Don’t Manage Them. Work With Them.)",
+        "text": "‍Paragon One's very own Cody Rapp offers tried-and-tested advice to the many managers out there who are supervising remote interns for the first time.",
+        "label": "insight"
+    },
+    {
+        "id": 12,
+        "img": "img_asset18.png",
+        "title": "A Paradigm Shift to Remote Work",
+        "text": "‍After several months of experimenting with remote work, scores of companies are starting to commit to a long term shift to working from home and hiring virtually. COVID19 has clearly disrupted the way we work, which means it must disrupt the way we prepare our workforce to work.",
+        "label": "insight"
+    },
+    {
+        "id": 13,
+        "img": "img_asset16.jpg",
+        "title": "Why High School is the Perfect Time to Introduce Students to Experiential Learning",
+        "text": "‍High schoolers with exposure to experiential learning are at an advantage when applying to college and securing internships during their time at university.",
+        "label": "insight"
+    },
+    {
+        "id": 14,
+        "img": "img_asset15.jpg",
+        "title": "Fall 2020: Beta Testing The Future of Education",
+        "text": "‍While universities might not be able to give students the full college experience this fall, those that are quick to recognize students’ newfound priorities are best-placed to tackle the disruption they are seeing.",
+        "label": "insight"
+    },
+    {
+        "id": 15,
+        "img": "img_asset14.jpg",
+        "title": "Campus Recruiting in a Remote Work World",
+        "text": "‍As recruiters start to realize that virtual hiring stands to massively expand their talent pool, the future of campus hiring is set to permanently change.",
+        "label": "insight"
+    },
+    {
+        "id": 16,
+        "img": "img_asset13.jpg",
+        "title": "Why Crafted Capital Opted to Give Students Their First Taste of Investment Banking Through a Remote Externship",
+        "text": "‍How a boutique investment banking firm partnered with Paragon One to leverage remote student talent at scale and open up their recruiting funnel for the future.",
+        "label": "interview"
+    },
+    {
+        "id": 17,
+        "img": "img_asset12.jpg",
+        "title": "Class of COVID High Schoolers and The “Forced” Gap Year",
+        "text": "‍With the advent of remote internships, Gen Z high schoolers have the ability to differentiate themselves by gaining corporate work experience to boost their college applications, even as COVID19 delays their higher education plans.",
+        "label": "insight"
+    },
+    {
+        "id": 18,
+        "img": "img_asset11.jpg",
+        "title": "Does the US Still Appeal to International Students?",
+        "text": "‍With health concerns, travel restrictions and recent anti-immigration proposals, it is imperative for higher education in the United States to refine its offering to continue to attract the international students that contribute over $45 billion to the US economy a year.",
+        "label": "insight"
+    },
+    {
+        "id": 19,
+        "img": "img_asset10.jpg",
+        "title": "Career Centers Reimagined",
+        "text": "‍Fewer than 20% of undergraduates reach out to their school’s career centers for advice on finding jobs or identifying and applying to graduate programs. While the role of career centers has been evolving for some years now, 2020 has made it very clear that they need to think well beyond putting internship postings on the school job portal in order to truly contribute value.",
+        "label": "insight"
+    },
+    {
+        "id": 20,
+        "img": "img_asset9.jpg",
+        "title": "Starting a Remote Career? Here’s How to Make an Impression.",
+        "text": "‍After over a decade in HR and talent development for Fortune 500 companies like Avon and PepsiCo, Sarah Aviram decided to shake things up and travel the world, without sacrificing her career. She has some great advice for young people beginning their careers remotely.",
+        "label": "interview"
+    },
+    {
+        "id": 21,
+        "img": "img_asset5.jpg",
+        "title": "How A Remote Externship Elevated My Year Of Online School",
+        "text": "‍Lindsey Yang, a student at Burlingame High School in California, shares how the remote externship she did with Facebook through Paragon One helped her use her time productively, even as the pandemic curtailed other passions.",
+        "label": "insight"
+    },
+    {
+        "id": 22,
+        "img": "img_asset4.png",
+        "title": "I'm Working To Become My Own Boss. Step 1 Was Starting a Business in High School. Next - a Remote Externship!",
+        "text": "‍It’s 2021. In a world where technology allows students to build job-ready skills and begin their careers long before graduating, Howard University student athlete Richie Jones embarked on a remote externship with Facebook via Paragon One. All while attending online school and running his digital marketing business full time.",
+        "label": "insight"
+    }
+
+]
